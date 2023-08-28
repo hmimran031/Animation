@@ -8,6 +8,10 @@
   height: 50px;
   width: 50px;
   background-color: aliceblue;
+  border-right: 4px solid red;
+  border-left: 4px solid green;
+  border-top: 4px solid blue;
+  border-bottom: 4px solid blueviolet;
   border-radius: 50px;
   animation: sliding 3s ease-in-out 0.5s infinite alternate;
   animation-play-state: running;
